@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375390631394",
+    "firebase_url": "https://riddhi1-a5074.firebaseio.com",
+    "project_id": "riddhi1-a5074",
+    "storage_bucket": "riddhi1-a5074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375390631394:android:f631f21ace9d42da7035bb",
+        "android_client_info": {
+          "package_name": "com.example.riddhi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375390631394-50bh6b0kn868l5ph8osgkg1pedfjqiab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riddhi1",
+            "certificate_hash": "70174f82c8869cac3e66818326ee5e49e50406a1"
+          }
+        },
+        {
+          "client_id": "375390631394-liqnqsmu1svsoont0p99geaktpraedpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEnn5ZQeFHK7wI4yAdsubioCR2FoOVa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375390631394-liqnqsmu1svsoont0p99geaktpraedpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
